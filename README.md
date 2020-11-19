@@ -1,2 +1,2 @@
 # JavaScriptTraining
-Cours Programmation Web 1
+Web Programming 1 class
