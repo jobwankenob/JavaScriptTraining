@@ -1,3 +1,5 @@
+
+
 function valeurDeMaVariable() {
     var nombreEntier = "1:10";
     if (nombreEntier == "5") {
